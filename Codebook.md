@@ -1,0 +1,3 @@
+the data set provided has  variable of which we are just interested in 66, the subject and the activity. In the readme markup I explained in details how does the code work. starting from reading the data till writing the resulting data set after the mutations applied.
+all the variable names are releatd to the mean or the standard deviation of the variables.
+In the resulting dataset there are 180 rows (which is 30 subject * 6 activities) and each column has the maean of its corresponding variable in the 180 cases.
